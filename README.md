@@ -4,7 +4,10 @@ https://user-images.githubusercontent.com/117412844/225781807-37ca208a-4e29-421a
 
 
 Create react with Vite then install this packages
- link this icon css to index.html in react home https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css
+ link this icon css to index.html in react home
+ 
+ https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css
+ 
  run this in command:
  
 <b> npm install recharts </b>
