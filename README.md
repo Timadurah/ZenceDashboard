@@ -7,12 +7,14 @@ Create react with Vite then install this packages
  link this icon css to index.html in react home https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css
  run this in command:
  
- npm install recharts
- npm i --save bootstrap @popperjs/core
+#b npm install recharts
+#b npm i --save bootstrap @popperjs/core
  
- then run to start the web
+ Copy the git file and replace it with src in the react app after all done Run:
 
- npm run dev
+ #b npm run dev
+ 
+ to start the web
  
  chat on whatsapp +2349051547147 
  
