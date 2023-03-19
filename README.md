@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/117412844/225781807-37ca208a-4e29-421a
 
 
 Create react with Vite then install this packages
- link this icon css to index.html in react home
+ link this icon css to root index.html
  
  https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css
  
@@ -20,6 +20,7 @@ Create react with Vite then install this packages
  to start the web
  
  chat on whatsapp +2349051547147 
+ or Mail me on Tim.adurah@gmail.com
  
 
 <b> inspired by HOLA LAB </b>
